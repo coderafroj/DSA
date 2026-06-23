@@ -15,3 +15,5 @@ int main(){
     cout<<bin<<" To dec is "<<ans;
     
 }
+1001
+1*8+0+1
